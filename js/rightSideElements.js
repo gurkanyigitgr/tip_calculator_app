@@ -55,4 +55,8 @@ function rightSide() {
   document.querySelector(".right-side").appendChild(resetBtn);
   resetBtn.classList.add("btn", "btn-reset");
   resetBtn.textContent = "Reset";
+
+  let js = document.createElement("script");
+  document.body.appendChild(js);
+  js.setAttribute("src", "js/script.js");
 }
