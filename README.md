@@ -36,6 +36,10 @@ If you'd like to contribute to this project, you can follow these steps:
 
 You can try out the live version of the Tip Calculator [here](https://tipcalculatorgr.netlify.app/)
 
+## Screenshot
+![image](https://user-images.githubusercontent.com/110620986/231787205-5f7b2624-c020-43fa-9cc8-3ee7f186d926.png)
+
+
 ## License
 
 This project is licensed under the MIT License. You can find more details in the [LICENSE](LICENSE) file.
